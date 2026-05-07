@@ -29,17 +29,17 @@
 
 ### Frontend / Publishing
 
-<img src="https://img.shields.io/badge/HTML5-grey?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-grey?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/jQuery-grey?style=flat-square&logo=jquery&logoColor=0769AD" />
-<img src="https://img.shields.io/badge/Swiper-grey?style=flat-square&logo=swiper&logoColor=6332F6" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" />
 
 ### Design
 
-<img src="https://img.shields.io/badge/Figma-grey?style=flat-square&logo=figma&logoColor=F24E1E" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-grey?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-grey?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
 
 ### 기타
 
