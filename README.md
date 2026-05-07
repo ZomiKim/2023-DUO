@@ -11,6 +11,11 @@
 `DUO`는 다양한 강점을 지닌 기업임에도 불구하고 구시대적인 디자인, 피로감을 유발하는 정보 구조로 인해 사용자가 웹사이트 이용을 꺼리게 되는 문제가 있었습니다.  
 본 프로젝트는 **트렌디함과 설렘을 살린 톤앤매너로 리브랜딩**을 시도하고, **사용자 편의 중심의 구조 개편**을 통해 브랜드 이미지를 개선하고 잠재 고객 유입을 유도하는 것을 목표로 합니다.
 
+## 📄 프로젝트 문서
+
+[![Project Document](https://img.shields.io/badge/PDF-프로젝트_문서보기-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ZomiKim/2023-DUO/main/doc.pdf)
+
+
 ## 문제인식
 
 - **구시대적 비주얼**로 브랜드 인상이 약함
@@ -64,6 +69,4 @@
 
 - **상담 예약 UI**
   - 입력 폼 및 체크박스 동의 영역 구성(예약 CTA 섹션 제공)
-
-## 📄 프로젝트 문서 [![Project Document](https://img.shields.io/badge/PDF-프로젝트_문서보기-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ZomiKim/2023-DUO/main/doc.pdf)
 
