@@ -1,0 +1,161 @@
+@media all and (max-width: 480px) {
+/* pop */
+.pop_box{
+  width: 300px;
+  height: 300px;
+  background: url(../imges/pop_bg.png) no-repeat center  / contain;
+}
+
+
+.pop_box > span{
+  display: block;
+  font-size: 15px;
+}
+
+.button_ma  > span {
+  font-size: 12px;
+}
+
+.button_ma img {
+  width: 12px;
+  height: 12px;
+}
+
+
+  /* main section swiper1 */
+  .main_section {
+    position: relative;
+    width: 100%;
+    background: url(../imges/p_imges/mobile_mv_bg_01.jpg) no-repeat center
+      center / cover;
+  }
+
+  .main_text2 {
+    width: 90%;
+    top: 20%;
+  }
+
+  .main_text2 li:nth-child(1),
+  .main_text2 li:nth-child(3) {
+    width: 52%;
+  }
+
+  .main_text2 li:nth-child(2) {
+    margin-top: 5%;
+  }
+
+  .sec-tit .title {
+    font-size: 20px;
+  }
+
+  /* main_section2*/
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: none;
+  }
+
+  /* main_section3*/
+
+  .info_box .swiper-slide img {
+    width: 70%;
+  }
+
+  .background_rose {
+    display: none;
+  }
+
+  /* main_section4 */
+
+  .main_section4 .container {
+    justify-content: center;
+  }
+
+  .review_text_box span {
+    font-size: 20px;
+  }
+
+  .review_text_box p {
+    font-size: 15px;
+    display: block;
+    margin: 11% 0;
+  }
+
+  .review_text_box p:nth-of-type(1) {
+    display: none;
+  }
+
+  .background_rose2 {
+    display: none;
+  }
+
+  .more_btn {
+    right: 33.333333%;
+    bottom: -80px;
+    width: 32%;
+  }
+
+  /* main_section5 */
+
+  .slide_img {
+    width: 80%;
+  }
+
+  .maiSwiper .swiper-pagination {
+    display: block;
+    position: static;
+    margin-top: 5%;
+  }
+
+  /* main_section6 */
+  .main_section6 .form_box {
+    width: 100%;
+    min-width: initial;
+    height: 100%;
+    background: rgba(237, 95, 125, 1);
+    right: 0%;
+    border-radius: 00px;
+    box-shadow: none;
+    justify-content: center;
+  }
+
+  .form_box .sec-tit {
+    margin-bottom: 0;
+    padding: 5% 0;
+  }
+
+  .forms {
+    margin: 0;
+  }
+
+  .forms form {
+    align-items: center;
+  }
+
+  #input1,
+  #zender,
+  #study,
+  #city,
+  #MBTI,
+  #input2,
+  #input3 {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+  }
+
+  .background6 {
+    display: none;
+  }
+
+  .checks input[type="checkbox"] + label {
+    font-size: 12px;
+    text-align: left;
+  }
+
+  .form_btn {
+    width: 25%;
+  }
+
+  /* main_section7 */
+}
