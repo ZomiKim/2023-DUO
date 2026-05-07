@@ -66,4 +66,5 @@
   - 입력 폼 및 체크박스 동의 영역 구성(예약 CTA 섹션 제공)
 
  [프로젝트 문서 보기] [![PDF](https://img.shields.io/badge/PDF-View-red)](https://raw.githubusercontent.com/ZomiKim/2023-DUO/main/doc.pdf)
+ [PDF 열기](https://raw.githubusercontent.com/ZomiKim/2023-DUO/main/doc.pdf)
 
