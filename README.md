@@ -14,7 +14,7 @@
 
 ## 🌐 프로젝트 바로가기
 
-[🔗 사이트 방문하기](https://2023-duo.vercel.app/)
+[![Live Site](https://img.shields.io/badge/Live-Site-00C7B7?style=for-the-badge)](https://2023-duo.vercel.app/)
 
 
 ## 📄 프로젝트 문서
