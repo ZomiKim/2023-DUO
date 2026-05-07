@@ -65,5 +65,5 @@
 - **상담 예약 UI**
   - 입력 폼 및 체크박스 동의 영역 구성(예약 CTA 섹션 제공)
 
- [프로젝트 문서 보기] (https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ZomiKim/2023-DUO/main/doc.pdf)
+## 📄 프로젝트 문서 [![Project Document](https://img.shields.io/badge/PDF-프로젝트_문서보기-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ZomiKim/2023-DUO/main/doc.pdf)
 
